@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shelley51.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-26T10:41:58.241Z</updated>
+    <updated>2020-06-26T10:43:32.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shelley51.github.io"/>
     <link rel="self" href="https://shelley51.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://shelley51.github.io/images/avatar.png</logo>
     <icon>https://shelley51.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[开始啦]]></title>
+        <id>https://shelley51.github.io/post/kai-shi-la/</id>
+        <link href="https://shelley51.github.io/post/kai-shi-la/">
+        </link>
+        <updated>2020-06-26T10:42:49.000Z</updated>
+        <content type="html"><![CDATA[<p>好的</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://shelley51.github.io/post/hello-gridea/</id>
