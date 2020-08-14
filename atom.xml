@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shelley51.github.io</id>
     <title>shelley</title>
-    <updated>2020-07-09T10:56:37.749Z</updated>
+    <updated>2020-08-14T09:49:35.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shelley51.github.io"/>
     <link rel="self" href="https://shelley51.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://shelley51.github.io/images/avatar.png</logo>
     <icon>https://shelley51.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, shelley</rights>
+    <entry>
+        <title type="html"><![CDATA[杂谈4：观How The Other Half Lives]]></title>
+        <id>https://shelley51.github.io/post/za-tan-4guan-how-the-other-half-lives/</id>
+        <link href="https://shelley51.github.io/post/za-tan-4guan-how-the-other-half-lives/">
+        </link>
+        <updated>2020-07-30T11:41:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杂谈3：观《三十而已》]]></title>
+        <id>https://shelley51.github.io/post/za-tan-3guan-lesslesssan-shi-er-yi-greatergreater/</id>
+        <link href="https://shelley51.github.io/post/za-tan-3guan-lesslesssan-shi-er-yi-greatergreater/">
+        </link>
+        <updated>2020-07-26T04:44:50.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杂谈2：观《知否》和《乘风破浪》]]></title>
         <id>https://shelley51.github.io/post/za-tan-2guan-lesslesszhi-fou-greatergreater-he-lesslesscheng-feng-po-lang-greatergreater/</id>
